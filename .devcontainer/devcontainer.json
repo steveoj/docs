@@ -11,8 +11,7 @@
 
 	// Set *default* container specific settings.json values on container create.
 	"settings": {
-		"terminal.integrated.shell.linux": "/bin/bash",
-		"cSpell.language": ",en"
+		"terminal.integrated.shell.linux": "/bin/
 	},
 
 	// Install features. Type 'feature' in the VS Code command palette for a full list.
@@ -22,16 +21,15 @@
 
 	// Visual Studio Code extensions which help authoring for docs.github.com.
 	"extensions": [
-		"dbaeumer.vscode-eslint",
-		"sissel.shopify-liquid",
+		"dbaeumer.vscode-eslint"i,
+		"
 		"davidanson.vscode-markdownlint",
 		"bierner.markdown-preview-github-styles",
 		"streetsidesoftware.code-spell-checker",
 		"alistairchristie.open-reusables"
 	],
 
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	"forwardPorts": [4000],
+	// Use 'forwardPorts' to make a 
 		
 	"portsAttributes": {
 		"4000": {
